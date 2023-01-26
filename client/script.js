@@ -85,7 +85,7 @@ const handleSubmit = async (e) => {
 
     //bot response
     
-    const response = await fetch('http://localhost:5000', {
+    const response = await fetch('https://chatbot-openai.onrender.com/', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
