@@ -1,0 +1,19 @@
+html
+css
+js
+vite
+node js
+open AI
+
+
+
+
+
+setup a vanilla JS project using vite
+use node js for server side
+responsive layouts with pure CSS
+handle events with JS
+render markdown from string
+prisma for code highlighting
+make API requests
+catch errors
